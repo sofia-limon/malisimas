@@ -29,7 +29,7 @@ void dibujarPila(const vector<int>& pila, int capacidadMaxima) {
 }
 
 // Función para mostrar los valores eliminados
-//aqui falta simular como se mueven pero npi como :,(
+//aqui falta simular como se mueven pero nose como :,(
 void mostrarValoresEliminados(const vector<int>& valores) {
     cout << "\nValores eliminados: ";
     if (valores.empty()) {
